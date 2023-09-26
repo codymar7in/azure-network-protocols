@@ -54,7 +54,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Press CTRL+C on your keyboard to stop the perpetual ping
 
 <p>
-<img src="https://i.imgur.com/SRnb5PO.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0HH7XzR.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -65,7 +65,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Type ‘exit’ to leave
 
 <p>
-<img src="https://i.imgur.com/jgvWLDY.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CiHFh6F.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -74,7 +74,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
  - ipconfig /renew (will attempt to create a fresh IP address on the computer)
 
 <p>
-<img src="https://i.imgur.com/qhNvtHr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Gzgin0H.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -83,7 +83,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - nslookup www.google.com
 
 <p>
-<img src="https://i.imgur.com/AKXUt1B.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9xOpaZj.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -93,6 +93,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 Network Security Group > Inbound Rules > + Rule > Type; DENY_ICMP_PING_FROM_ANYWHERE
 
 <p>
-<img src="https://i.imgur.com/nogYEGl.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5pEhMxe.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
