@@ -65,7 +65,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Type ‘exit’ to leave
 
 <p>
-<img src="https://i.imgur.com/CiHFh6F.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lPvFep0.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -74,7 +74,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
  - ipconfig /renew (will attempt to create a fresh IP address on the computer)
 
 <p>
-<img src="https://i.imgur.com/Gzgin0H.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0ZPUicr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -83,7 +83,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - nslookup www.google.com
 
 <p>
-<img src="https://i.imgur.com/9xOpaZj.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1y86tBc.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
