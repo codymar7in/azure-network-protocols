@@ -89,6 +89,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 Network Security Group > Inbound Rules > + Rule > Type; DENY_ICMP_PING_FROM_ANYWHERE
 
 <p>
-<img src="https://i.imgur.com/5pEhMxe.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FeAKaNG.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
